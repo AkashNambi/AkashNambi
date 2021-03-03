@@ -1,7 +1,6 @@
 # Akash Nambi
 #### Software Developer 
 
----
 I'm Akash Nambi from India,a pre-final year Computer Science undergraduate. I am an active learner and enjoy crafting software solutions. I am a Machine Learning and Deep learning enthusiast and also a front end web developer.Table Tennis and Music are my pills of relaxation. 
 <!--
 **AkashNambi/AkashNambi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,9 +10,10 @@ Here are some ideas to get you started:
 
 Skills:  JS / HTML / CSS
 
+---
 ### Talking about Personal Stuffs:
 
----
+
 🌱 I’m currently learning React.
 
 💬 Ask me about anything! I am more than happy to share what I know.
