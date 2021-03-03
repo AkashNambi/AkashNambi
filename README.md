@@ -1,5 +1,5 @@
 # Akash Nambi 
-I'm Akash Nambi from India,a pre-final year Computer Science undergraduate. I am an active learner and enjoy crafting software solutions. I am a Machine Learning and Deep learning enthusiast and also a front end web developer.Table Tennis and Music are my pills of relaxation. 
+I'm Akash Nambi from India, a pre-final year Computer Science undergraduate. I am an active learner and enjoy crafting software solutions. I am a Machine Learning and Deep learning enthusiast and also a front end web developer.Table Tennis and Music are my pills of relaxation. 
 
 
 Skills:  JS / HTML / CSS
